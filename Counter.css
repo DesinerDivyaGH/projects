@@ -1,0 +1,43 @@
+
+.demo{
+    background-color: pink;
+    width: 500px;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 400px;
+    border-radius: 10px;
+    
+}
+h2{
+    color:red;
+    text-align: center;
+}
+.btn1{
+    background-color: yellow;
+    
+    margin: 10px;
+    font-size: 20px;
+    position: relative;
+    left: 80px;
+}
+.btn2{
+    background-color: red;
+    
+    margin: 10px;
+    font-size: 20px;
+    position: relative;
+    left: 90px;
+}
+.btn3{
+    background-color:green;
+   
+    margin: 10px;
+    font-size: 20px;
+    position: relative;
+    left: 100px;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
